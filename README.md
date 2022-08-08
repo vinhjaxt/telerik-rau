@@ -1,4 +1,6 @@
-# Telerik Web UI Unrestricted File Upload (CVE-2017-11317) + Telerik Web UI RadAsyncUpload Deserialization 
+# Telerik Web UI Unrestricted File Upload (CVE-2017-11317) + Telerik Web UI RadAsyncUpload Deserialization
+
+https://github.com/michael101096/cs2020_msels/tree/master/scripts/cves/telerik_cve-2019-18935
 
 ## Telerik version: 2016.2.504
 
